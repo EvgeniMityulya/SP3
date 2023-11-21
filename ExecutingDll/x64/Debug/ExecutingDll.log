@@ -1,0 +1,4 @@
+﻿Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl Sum(int,int)" (?Sum@@YAHHH@Z) в функции main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl Sub(int,int)" (?Sub@@YAHHH@Z) в функции main.
+Main.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl Replace(char const *,char const *)" (?Replace@@YAXPEBD0@Z) в функции main.
+C:\Users\HP\source\repos\WindowsProject3\x64\Debug\ExecutingDll.exe : fatal error LNK1120: неразрешенных внешних элементов: 3
